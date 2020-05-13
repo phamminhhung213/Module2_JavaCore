@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5f969fa-7d4e-400b-b95e-4e70b300af57" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bYm2wAyMybgZxa1WcaTPZaxwDx" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../C0120G1_Pham_Minh_Hung_Module2_JavaCore/Mudule2_JavaCore" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="B6_CTDLvaGTCoBan.TH.TrienKhaiLopListDonGian" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\JavaCore\src" />
+      <recent name="D:\CodeGym\JavaCore\src\B2_MangVaPhuongThucTrongJava\BT" />
+      <recent name="D:\CodeGym\JavaCore\src\B2_MangVaPhuongThucTrongJava\TH" />
+      <recent name="D:\CodeGym\JavaCore\src\B1_NgonNguLapTrinhJava\TH" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestMyLinkedList">
+    <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B3_LopVaDTTTrongJava.BT.Fan.Fan" />
+      <module name="Module2_JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B3_LopVaDTTTrongJava.BT.Fan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IllegalTriangleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B2_MangVaPhuongThucTrongJava.BT.IllegalTriangleException.IllegalTriangleException" />
+      <module name="Module2_JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B2_MangVaPhuongThucTrongJava.BT.IllegalTriangleException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B6_CTDLvaGTCoBan.TH.TrienKhaiLopListDonGian.MyListTest" />
+      <module name="Module2_JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B6_CTDLvaGTCoBan.TH.TrienKhaiLopListDonGian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B3_LopVaDTTTrongJava.BT.StopWatch.StopWatch" />
+      <module name="Module2_JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B3_LopVaDTTTrongJava.BT.StopWatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B6_CTDLvaGTCoBan.TH.TrienKhaiLinkedList.TestMyLinkedList" />
+      <module name="Module2_JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B6_CTDLvaGTCoBan.TH.TrienKhaiLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestMyLinkedList" />
+        <item itemvalue="Application.MyListTest" />
+        <item itemvalue="Application.StopWatch" />
+        <item itemvalue="Application.Fan" />
+        <item itemvalue="Application.IllegalTriangleException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5f969fa-7d4e-400b-b95e-4e70b300af57" name="Default Changelist" comment="" />
+      <created>1588817197702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588817197702</updated>
+      <workItem from="1588817201374" duration="31000" />
+      <workItem from="1588817267364" duration="19051000" />
+      <workItem from="1589166813687" duration="645000" />
+      <workItem from="1589168444479" duration="1617000" />
+      <workItem from="1589170164184" duration="18634000" />
+      <workItem from="1589332853379" duration="4738000" />
+      <workItem from="1589340061600" duration="6489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

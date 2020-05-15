@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5f969fa-7d4e-400b-b95e-4e70b300af57" name="Default Changelist" comment="" />
+    <list default="true" id="b5f969fa-7d4e-400b-b95e-4e70b300af57" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Test/B6_CTDLvaGTCoBan/BT/ArrayList/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/B6_CTDLvaGTCoBan/BT/ArrayList/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/B6_CTDLvaGTCoBan/BT/LinkedList/MyList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/B6_CTDLvaGTCoBan/BT/LinkedList/TestMyList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Casestudy_Module2_JavaCore/Commons/FuncValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Casestudy_Module2_JavaCore/Commons/KB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Casestudy_Module2_JavaCore/Commons/UserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Casestudy_Module2_JavaCore/Models/Services.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B2_MangVaPhuongThucTrongJava/TH/TimGiaTriNhoNhatTrongMang/MinArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B2_MangVaPhuongThucTrongJava/TH/TimGiaTriNhoNhatTrongMang/MinArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/Resizeable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/Resizeable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/ShapeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiInterfaceResizeableChoCacLopHinhHoc/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/Colorable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/Colorable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/ShapeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/BT/TrienKhaiinterfaceColorableTrongCacLopHinhHoc/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/AbstractAndInterfaceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/AbstractAndInterfaceTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/animal/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/animal/Chicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/animal/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/animal/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/edible/Edible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/edible/Edible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/fruit/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/fruit/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/fruit/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/fruit/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/fruit/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/LopAnimalVaLopInterfaceEdible/fruit/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/ComparableCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/ComparableCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/ComparableCircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/ComparableCircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/ShapeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparableChoCacLopHinhHoc/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/CircleComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/CircleComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/CircleComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/CircleComparatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/ShapeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B5_AdvancedObjectOrientedDesign/TH/TrienKhaiInterfaceComparator/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B6_CTDLvaGTCoBan/BT/ArrayList/MyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B6_CTDLvaGTCoBan/TH/TrienKhaiLinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B6_CTDLvaGTCoBan/TH/TrienKhaiLinkedList/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B6_CTDLvaGTCoBan/TH/TrienKhaiLinkedList/TestMyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B6_CTDLvaGTCoBan/TH/TrienKhaiLinkedList/TestMyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B6_CTDLvaGTCoBan/TH/TrienKhaiLopListDonGian/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B6_CTDLvaGTCoBan/TH/TrienKhaiLopListDonGian/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B6_CTDLvaGTCoBan/TH/TrienKhaiLopListDonGian/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/B6_CTDLvaGTCoBan/TH/TrienKhaiLopListDonGian/MyListTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,25 +80,29 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1bYm2wAyMybgZxa1WcaTPZaxwDx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../C0120G1_Pham_Minh_Hung_Module2_JavaCore/Mudule2_JavaCore" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="B6_CTDLvaGTCoBan.TH.TrienKhaiLopListDonGian" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\CodeGym\JavaCore\src" />
       <recent name="D:\CodeGym\JavaCore\src\B2_MangVaPhuongThucTrongJava\BT" />
       <recent name="D:\CodeGym\JavaCore\src\B2_MangVaPhuongThucTrongJava\TH" />
       <recent name="D:\CodeGym\JavaCore\src\B1_NgonNguLapTrinhJava\TH" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Test.Casestudy_Module2_JavaCore.Commons" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="B6_CTDLvaGTCoBan.TH.TrienKhaiLopListDonGian" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -49,26 +117,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestMyLinkedList">
-    <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B3_LopVaDTTTrongJava.BT.Fan.Fan" />
+  <component name="RunManager" selected="Application.XoaPTKhoiMang">
+    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.B6_CTDLvaGTCoBan.TH.TrienKhaiLopListDonGian.MyListTest" />
       <module name="Module2_JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B3_LopVaDTTTrongJava.BT.Fan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IllegalTriangleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B2_MangVaPhuongThucTrongJava.BT.IllegalTriangleException.IllegalTriangleException" />
-      <module name="Module2_JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="B2_MangVaPhuongThucTrongJava.BT.IllegalTriangleException.*" />
+          <option name="PATTERN" value="Test.B6_CTDLvaGTCoBan.TH.TrienKhaiLopListDonGian.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,24 +132,11 @@
       </method>
     </configuration>
     <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B6_CTDLvaGTCoBan.TH.TrienKhaiLopListDonGian.MyListTest" />
+      <option name="MAIN_CLASS_NAME" value="Test.B6_CTDLvaGTCoBan.BT.ArrayList.MyListTest" />
       <module name="Module2_JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B6_CTDLvaGTCoBan.TH.TrienKhaiLopListDonGian.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B3_LopVaDTTTrongJava.BT.StopWatch.StopWatch" />
-      <module name="Module2_JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="B3_LopVaDTTTrongJava.BT.StopWatch.*" />
+          <option name="PATTERN" value="Test.B6_CTDLvaGTCoBan.BT.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +145,37 @@
       </method>
     </configuration>
     <configuration name="TestMyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B6_CTDLvaGTCoBan.TH.TrienKhaiLinkedList.TestMyLinkedList" />
+      <option name="MAIN_CLASS_NAME" value="Test.B6_CTDLvaGTCoBan.TH.TrienKhaiLinkedList.TestMyLinkedList" />
       <module name="Module2_JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B6_CTDLvaGTCoBan.TH.TrienKhaiLinkedList.*" />
+          <option name="PATTERN" value="Test.B6_CTDLvaGTCoBan.TH.TrienKhaiLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XoaPTKhoiMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B2_MangVaPhuongThucTrongJava.BT.XoaPTKhoiMang.XoaPTKhoiMang" />
+      <module name="Module2_JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B2_MangVaPhuongThucTrongJava.BT.XoaPTKhoiMang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B6_CTDLvaGTCoBan.BT.ArrayList.test" />
+      <module name="Module2_JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.B6_CTDLvaGTCoBan.BT.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +185,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestMyLinkedList" />
+        <item itemvalue="Application.XoaPTKhoiMang" />
         <item itemvalue="Application.MyListTest" />
-        <item itemvalue="Application.StopWatch" />
-        <item itemvalue="Application.Fan" />
-        <item itemvalue="Application.IllegalTriangleException" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.TestMyLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -142,10 +209,38 @@
       <workItem from="1589170164184" duration="18634000" />
       <workItem from="1589332853379" duration="4738000" />
       <workItem from="1589340061600" duration="6489000" />
+      <workItem from="1589364392103" duration="681000" />
+      <workItem from="1589419069356" duration="172000" />
+      <workItem from="1589420665748" duration="14102000" />
+      <workItem from="1589441222131" duration="2944000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/B2_MangVaPhuongThucTrongJava/BT/XoaPTKhoiMang/XoaPTKhoiMang.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

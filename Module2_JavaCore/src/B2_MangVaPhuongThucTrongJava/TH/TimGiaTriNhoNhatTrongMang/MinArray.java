@@ -9,9 +9,9 @@ public class MinArray {
         //System.out.println("phần tử nhỏ nhất là: " + arr[index] +"  Tại vị trí "+index);
 //        int [] arr;
 //        arr = new int[10];
-//        Random kb = new Random();
+//        Random KB = new Random();
 //        for (int i = 0; i < arr.length; i++) {
-//            arr[i] = kb.nextInt(20);
+//            arr[i] = KB.nextInt(20);
 //            System.out.println(arr[i] + "\t");
 //        }
 //        int index = minArray(arr);
